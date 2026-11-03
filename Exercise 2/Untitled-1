@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta name=""viewport" content="width=device-width, initial-scale=1.0">
+    <title>Montreal</title>
+</head>
+<body>
+    <h1> Why it's cool! </h1>
+    <p>Montreal is a <b>vibrant</b> city with a rich cultural scene, delicious food, and beautiful architecture.</p>
+    <p>It's also home to many festivals and events throughout the year.</p>
+    <h2> Tourist Attractions </h2>
+    <ul>
+        <li>Old Montreal</li>
+        <li>Mount Royal Park</li>
+        <li>Notre-Dame Basilica</li>
+        <li>Montreal Museum of Fine Arts</li>
+        <li>Jean-Talon Market</li>
+    </ul>
+    <h2> Things to do </h2>
+    <ol>
+        <li>Visit the Old Town</li>
+        <li>Go hiking in Mount Royal Park</li>
+        <li>Attend a festival or concert</li>
+        <li>Explore the Jean-Talon Market</li>
+    </ol>
+
+</body>
